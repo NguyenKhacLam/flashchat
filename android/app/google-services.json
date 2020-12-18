@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880584376236",
+    "firebase_url": "https://social-native-c79f7.firebaseio.com",
+    "project_id": "social-native-c79f7",
+    "storage_bucket": "social-native-c79f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880584376236:android:0fec5c38c04628b74c4409",
+        "android_client_info": {
+          "package_name": "co.kl.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880584376236-qvusq65prb7ql4l8lqbed3htjleljsv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKHa-lq7FGfpiKpNthTphGHKXSZpr0Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880584376236-qvusq65prb7ql4l8lqbed3htjleljsv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
